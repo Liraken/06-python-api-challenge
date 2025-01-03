@@ -112,7 +112,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
-[humidity_map_example](Images/humidity_map.png)
+![humidity_map_example](Images/humidity_map.png)
 
 2. narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
@@ -130,7 +130,7 @@ Feel free to adjust your specifications but make sure to set a reasonable limit 
 
 5. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
-[hotel_map_example](Images/hotel_map.png)
+![hotel_map_example](Images/hotel_map.png)
 
 ### Hints and Considerations
 * The city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook.
